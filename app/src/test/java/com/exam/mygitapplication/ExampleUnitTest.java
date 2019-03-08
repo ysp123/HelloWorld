@@ -1,4 +1,4 @@
-package com.example.mygitapplication;
+package com.exam.mygitapplication;
 
 import org.junit.Test;
 
