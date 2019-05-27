@@ -3,12 +3,15 @@ package com.example.mygitapplication;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-public class MainActivity extends AppCompatActivity {
+import com.exam.mygitapplication.R;
+
+class TextViewActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
-        System.out.println("hello");
+        //GTTRUH576IJ876
+        setContentView(R.layout.activity_text_view);
+
     }
 }
